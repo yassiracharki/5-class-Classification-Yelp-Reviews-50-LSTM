@@ -1,6 +1,6 @@
 # **5 classes fine-grained Text Classification Yelp Reviews 50% LSTM**
 
-![Yelp 5 classes.png](attachment:baeefb99-d5e3-4178-a5de-3c58b4ea22b4.png)
+#picture
 
 1. Download and Imports
 2. Functions
